@@ -1,3 +1,5 @@
+import time
+
 Nome = input('Nome do cliente: ')
 Idade = int(input('Idade do cliente: '))
 if Idade < 18:
@@ -10,7 +12,6 @@ if Quantidade <= 0 or V_Uni <= 0:
     exit() 
 valor_total = Quantidade * V_Uni
 
-import time
 def carregamento():
     total = 30
     for i in range(1, 101):
@@ -33,4 +34,5 @@ print('----------- RECIBO DE VENDA -------------')
 print('------------ Volte Sempre! --------------')
 print('-----------------------------------------')
 print('Made by @pedrolucas.fv :)')
+
 input('Pressione Enter para sair desta tela...')
