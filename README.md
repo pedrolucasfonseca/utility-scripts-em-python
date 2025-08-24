@@ -24,7 +24,9 @@ Uma calculadora simples que realiza as operações básicas (+, -, *, /) e exibe
 
 ### 2️⃣ Jogo do Número Secreto
 
-**Arquivo:** `jogo_numero_secreto.py` Um jogo interativo onde o computador escolhe um número aleatório entre 1 e 50, e o jogador tenta adivinhar.
+**Arquivo:** `jogo_numero_secreto.py` 
+
+Um jogo interativo onde o computador escolhe um número aleatório entre 1 e 50, e o jogador tenta adivinhar.
 
 **Funcionalidades:**
 
@@ -39,7 +41,9 @@ Uma calculadora simples que realiza as operações básicas (+, -, *, /) e exibe
 
 ### 3️⃣ Gerador de Recibo de Venda com Barra de Carregamento
 
-**Arquivo:** `recibo_venda.py` Solicita informações do cliente e da compra, calcula o valor total e gera um recibo formatado, com barra de carregamento antes da exibição.
+**Arquivo:** `recibo_venda.py` 
+
+Solicita informações do cliente e da compra, calcula o valor total e gera um recibo formatado, com barra de carregamento antes da exibição.
 
 **Funcionalidades:**
 
@@ -55,7 +59,9 @@ Uma calculadora simples que realiza as operações básicas (+, -, *, /) e exibe
 
 ### 4️⃣ Gerenciador de Tarefas (em Memória)
 
-**Arquivo:** `gerenciador_tarefas.py` Um gerenciador de tarefas simples que mantém as tarefas apenas na memória enquanto o programa está em execução.
+**Arquivo:** `gerenciador_tarefas.py` 
+
+Um gerenciador de tarefas simples que mantém as tarefas apenas na memória enquanto o programa está em execução.
 
 **Funcionalidades:**
 
