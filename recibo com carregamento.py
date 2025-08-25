@@ -33,6 +33,4 @@ print('-----------------------------------------')
 print('----------- RECIBO DE VENDA -------------')
 print('------------ Volte Sempre! --------------')
 print('-----------------------------------------')
-print('Made by @pedrolucas.fv :)')
-
 input('Pressione Enter para sair desta tela...')
