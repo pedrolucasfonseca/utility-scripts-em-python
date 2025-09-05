@@ -2,7 +2,7 @@
 
 Este repositório contém **4 scripts interativos** desenvolvidos em Python, cada um com uma funcionalidade específica, desde cálculos simples até geração de recibos e jogos simples mas interativos (feitos por um programador amador).
 
-# 📜 Scripts incluídos
+## 📜 Scripts incluídos
 
 ### 1️⃣ Calculadora com Barra de Carregamento
 
