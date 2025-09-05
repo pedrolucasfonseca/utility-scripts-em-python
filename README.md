@@ -57,20 +57,26 @@ Solicita informações do cliente e da compra, calcula o valor total e gera um r
 
 `python recibo_venda.py`
 
-### 4️⃣ Gerenciador de Tarefas (em Memória)
+### 4️⃣ Calendário Interativo
 
-**Arquivo:** `gerenciador_tarefas.py` 
+**Arquivo:** `calendario.py` 
 
-Um gerenciador de tarefas simples que mantém as tarefas apenas na memória enquanto o programa está em execução.
+Este script exibe um calendário mensal com base no ano e mês fornecidos pelo usuário. Ele utiliza o módulo `calendar` da biblioteca padrão do Python.
 
 **Funcionalidades:**
 
-- Adiciona novas tarefas à lista.
-- Lista todas as tarefas cadastradas.
-- Remove tarefas pelo número indicado.
-- Menu interativo com opções numéricas.
-- Mantém as tarefas apenas enquanto o programa está em execução (não salva em arquivo).
+- Exibição de Calendário Mensal.
+- Interface Interativa via Terminal.
+- Validação de Entrada.
+- Loop Contínuo até o Usuário Sair.
+- Uso de Biblioteca Padrão (calendar).
 
 **Execução:**
 
-`python gerenciador_tarefas.py`
+`python calendario.py`
+
+---
+
+# 📝 Requisitos
+
+Este script requer apenas o Python 3 e utiliza apenas bibliotecas padrão.
