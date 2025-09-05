@@ -73,7 +73,6 @@ Este script exibe um calendário mensal com base no ano e mês fornecidos pelo u
 
 `python calendario.py`
 
----
 
 # 📝 Requisitos
 
